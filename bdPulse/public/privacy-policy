@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="/assets/fonts/font-awesome/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <script
+      type="text/javascript"
+      async=""
+      src="https://www.google-analytics.com/analytics.js"
+    ></script>
+    <script
+      type="text/javascript"
+      async=""
+      src="https://js.driftt.com/include/1571300400000/fe9m39pictdk.js"
+    ></script>
+
+    <script>
+      (function(html) {
+        html.className = html.className.replace(/\bno-js\b/, "js");
+      })(document.documentElement);
+    </script>
+    <title>
+      Attendance Management System|Field Employee Tracking|Free Trial
+      Available|BlueDolphin
+    </title>
+
+    <meta
+      name="description"
+      content="Best Attendance Monitoring and Management System for in-office and field staff. Easy and fast setup with low cost. Suited for companies, manufacturing units, hotels, hospitals, educational institutions. Powerful technology with rich analytics."
+    />
+    <link rel="canonical" href="https://bluedolph.in/privacy-policy" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta
+      property="og:title"
+      content="Attendance Management System|Field Employee Tracking|Free Trial Available|BlueDolphin"
+    />
+    <meta
+      property="og:description"
+      content="Best Attendance Monitoring and Management System for in-office and field staff. Easy and fast setup with low cost. Suited for companies, manufacturing units, hotels, hospitals, educational institutions. Powerful technology with rich analytics."
+    />
+    <meta property="og:url" content="https://bluedolph.in/privacy-policy" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:description"
+      content="Best Attendance Monitoring and Management System for in-office and field staff. Easy and fast setup with low cost. Suited for companies, manufacturing units, hotels, hospitals, educational institutions. Powerful technology with rich analytics."
+    />
+    <meta
+      name="twitter:title"
+      content="Attendance Management System|Field Employee Tracking|Free Trial Available|BlueDolphin"
+    />
+
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+    <link
+      rel="stylesheet"
+      id="twentysixteen-fonts-css"
+      href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&amp;subset=latin%2Clatin-ext"
+      type="text/css"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      id="genericons-css"
+      href="/assets/fonts/genericons/genericons.css"
+      type="text/css"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      id="twentysixteen-style-css"
+      href="/assets/css/style.css"
+      type="text/css"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      id="bootstrapstyle-css"
+      href="/assets/bootstrap/bootstrap.min.css"
+      type="text/css"
+      media="all"
+    />
+    <link
+      rel="stylesheet"
+      id="bd-style-css"
+      href="/assets/css/bd-style.css"
+      type="text/css"
+      media="all"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script
+      type="text/javascript"
+      src="/assets/bootstrap/bootstrap.min.js"
+    ></script>
+
+    <link rel="icon" href="favicon.png" sizes="32x32" />
+    <link rel="icon" href="favicon.png" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="favicon.png" />
+    <meta name="msapplication-TileImage" content="favicon.png" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async=""
+      src="https://www.googletagmanager.com/gtag/js?id=UA-123005374-3"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "UA-123005374-3");
+    </script>
+
+    <!-- chat code start -->
+
+    <!-- Start of Async Drift Code -->
+    <script>
+      "use strict";
+
+      !(function() {
+        var t = (window.driftt = window.drift = window.driftt || []);
+        if (!t.init) {
+          if (t.invoked)
+            return void (
+              window.console &&
+              console.error &&
+              console.error("Drift snippet included twice.")
+            );
+          (t.invoked = !0),
+            (t.methods = [
+              "identify",
+              "config",
+              "track",
+              "reset",
+              "debug",
+              "show",
+              "ping",
+              "page",
+              "hide",
+              "off",
+              "on"
+            ]),
+            (t.factory = function(e) {
+              return function() {
+                var n = Array.prototype.slice.call(arguments);
+                return n.unshift(e), t.push(n), t;
+              };
+            }),
+            t.methods.forEach(function(e) {
+              t[e] = t.factory(e);
+            }),
+            (t.load = function(t) {
+              var e = 3e5,
+                n = Math.ceil(new Date() / e) * e,
+                o = document.createElement("script");
+              (o.type = "text/javascript"),
+                (o.async = !0),
+                (o.crossorigin = "anonymous"),
+                (o.src =
+                  "https://js.driftt.com/include/" + n + "/" + t + ".js");
+              var i = document.getElementsByTagName("script")[0];
+              i.parentNode.insertBefore(o, i);
+            });
+        }
+      })();
+      drift.SNIPPET_VERSION = "0.3.1";
+      drift.load("fe9m39pictdk");
+    </script>
+    <!-- End of Async Drift Code -->
+
+    <!-- chat code end -->
+  </head>
+
+  <body
+    class="page-template page-template-privacy-policy page-template-privacy-policy-php page page-id-761 wp-custom-logo"
+  >
+    <div id="page" class="site">
+      <div class="site-inner">
+        <a class="skip-link screen-reader-text" href="#content"
+          >Skip to content</a
+        >
+
+        <header id="masthead" class="site-header" role="banner">
+          <div class="container">
+            <div class="site-header-main">
+              <div class="logo-section">
+                <div class="site-branding logoholder">
+                  <a
+                    href="/"
+                    class="custom-logo-link"
+                    rel="home"
+                    itemprop="url"
+                    ><img
+                      width="240"
+                      height="53"
+                      src="/assets/images/cropped-logo.png"
+                      class="custom-logo"
+                      alt=""
+                      itemprop="logo"
+                  /></a>
+                </div>
+              </div>
+
+              <div class="menubox">
+                <button id="menu-toggle" class="menu-toggle">
+                  <i class="fa fa-bars" aria-hidden="true"></i>
+                </button>
+
+                <div id="site-header-menu" class="site-header-menu">
+                  <nav
+                    id="site-navigation"
+                    class="main-navigation"
+                    role="navigation"
+                    aria-label="Primary Menu"
+                  >
+                    <div class="menu-topmenu-container">
+                      <ul id="menu-topmenu" class="primary-menu">
+                        <li
+                          id="menu-item-24"
+                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24"
+                          aria-haspopup="true"
+                        >
+                          <a href="#">Products</a
+                          ><button
+                            class="dropdown-toggle"
+                            aria-expanded="false"
+                          >
+                            <span class="screen-reader-text"
+                              >expand child menu</span
+                            >
+                          </button>
+                          <ul class="sub-menu">
+                            <li
+                              id="menu-item-122"
+                              class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122"
+                            >
+                              <a
+                                target="_blank"
+                                href="https://attendance.bluedolph.in/"
+                                >Attendance</a
+                              >
+                            </li>
+                            <li
+                              id="menu-item-123"
+                              class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123"
+                            >
+                              <a
+                                target="_blank"
+                                href="https://fieldforce.bluedolph.in/"
+                                >Fieldforce</a
+                              >
+                            </li>
+                            <li
+                              id="menu-item-124"
+                              class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124"
+                            >
+                              <a
+                                target="_blank"
+                                href="https://pulse.bluedolph.in/"
+                                >Pulse</a
+                              >
+                            </li>
+                          </ul>
+                        </li>
+                        <li
+                          id="menu-item-25"
+                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"
+                        >
+                          <a href="https://blog.bluedolph.in/">Blog</a>
+                        </li>
+                        <li
+                          id="menu-item-26"
+                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"
+                        >
+                          <a href="/get-in-touch">Contact Us</a>
+                        </li>
+                        <li
+                          id="menu-item-292"
+                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-292"
+                          aria-haspopup="true"
+                        >
+                          <a href="#">Login</a
+                          ><button
+                            class="dropdown-toggle"
+                            aria-expanded="false"
+                          >
+                            <span class="screen-reader-text"
+                              >expand child menu</span
+                            >
+                          </button>
+                          <ul class="sub-menu">
+                            <li
+                              id="menu-item-293"
+                              class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293"
+                            >
+                              <a
+                                target="_blank"
+                                href="https://login.fieldforce.bluedolph.in/"
+                                >bdFieldforce</a
+                              >
+                            </li>
+                            <li
+                              id="menu-item-294"
+                              class="menu-item menu-item-type-custom menu-item-object-custom menu-item-294"
+                            >
+                              <a
+                                target="_blank"
+                                href="https://login.attendance.bluedolph.in/"
+                                >bdAttendance</a
+                              >
+                            </li>
+                            <li
+                              id="menu-item-749"
+                              class="menu-item menu-item-type-custom menu-item-object-custom menu-item-749"
+                            >
+                              <a href="https://login-pulse.bluedolph.in/"
+                                >bdPulse</a
+                              >
+                            </li>
+                          </ul>
+                        </li>
+                        <li
+                          id="menu-item-27"
+                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"
+                        >
+                          <a href="/get-in-touch">Request a demo</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </nav>
+                </div>
+              </div>
+
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </header>
+
+        <div id="content" class="site-content custom-content">
+          <section class="privacybox">
+            <div class="privacyinner">
+              <div class="col-sm-4 pri-bannerleft">
+                <img
+                  src="/assets/images/privacy-lock.png"
+                  class="img-responsive center-block"
+                />
+              </div>
+              <div class="col-sm-8 pri-bannerright">
+                <h1>Privacy Policy</h1>
+                <p>
+                  Blue Dolphin (Rare Media Company Pvt Ltd) is committed to
+                  protect your privacy and rigorous procedures have been
+                  implemented to ensure this. The following Privacy Policy
+                  provides information on how your personal information is
+                  collected and used.
+                </p>
+              </div>
+              <div class="clearfix"></div>
+
+              <!-- end of banner part here -->
+
+              <div class="privacy-white">
+                <div class="pri-ques-comm pri-ques1">
+                  What this site does with the information it gathers/tracks:
+                </div>
+                <div class="pri-para-comm pri-para1">
+                  Blue Dolphin may offer several opportunities for visitors to
+                  register for promotional or informational mailings or to
+                  receive assistance in evaluating our software and services.
+                  Our site's optional information requests forms that require
+                  your name, company, e-mail address, as well as information to
+                  help us determine your needs relative to our products and
+                  services. Information submitted by you within our website,
+                  will be used only by us in order to provide customer support
+                  to you, inform you of any new promotion or update of our
+                  website, or to help process your queries, in case help is
+                  needed. Blue Dolphin does not share, sell, rent, or trade PII
+                  with third parties for their promotional purposes. We reserve
+                  the right to disclose your personally identifiable information
+                  as required by law and when we believe that disclosure is
+                  necessary to protect our rights and/or comply with a judicial
+                  proceeding, court order, or legal process served on our Web
+                  site.<br />
+                  We use this information to send updates about our company and
+                  will contact you if requested or necessary. We use your IP
+                  address to help diagnose problems with our server and to
+                  administer our website. We also track browser types to help us
+                  understand our visitors' needs related to our website design.
+                  IP addresses are not linked to personally identifiable
+                  information. When you enter a contest or other promotional
+                  features, such as the Blue Dolphin free demo, we ask for
+                  information such as your name, mailing address, daytime phone
+                  number and email address, so we can administer the demos and
+                  contact you to receive feedback regarding our product. We may
+                  also use your registered phone number occasionally to market
+                  and advertise our products and services that may be of
+                  interest to you including promotions, advertisements or
+                  commercial communications by text message via SMS. For details
+                  of how to opt out of marketing communications, please drop an
+                  email to hello@bluedolph.in.
+                </div>
+
+                <div class="pri-ques-comm pri-ques2">Choice/Opt-out:</div>
+                <div class="pri-para-comm pri-para2">
+                  If you sign up as a trial or a paying member, we request
+                  certain personally identifiable information from you. You must
+                  provide contact information (such as name, email, and physical
+                  address). We use this information for promotion or support
+                  purposes. The users selected to be part of Blue Dolphin’s Case
+                  Studies have the option of opting-out by sending an email to
+                  hello@bluedolph.in. However, all testimonials had full
+                  permission to be posted on Blue Dolphin’s website. If you no
+                  longer wish to receive our newsletter whether it is a
+                  promotional, support, or billing related communication, you
+                  may opt-out of receiving them by following the instructions
+                  included in each newsletter or communication or by emailing us
+                  at hello@bluedolph.in. We offer an opportunity to opt-out of
+                  promotional, support, billing related communication emails, by
+                  clicking on the unsubscribe link on the emails. Every email
+                  sent through Blue Dolphin contains an easy, automated
+                  unsubscribe link at the bottom of the email. To unsubscribe,
+                  you simply need to click the link at the bottom of the page in
+                  the unsubscribe area. You are immediately excluded from all
+                  future mailings.
+                </div>
+
+                <div class="pri-ques-comm pri-ques3">
+                  With whom this site shares information it
+                  gathers/tracks/shares:
+                </div>
+                <div class="pri-para-comm pri-para3">
+                  We share aggregate statistics about our customer's traffic
+                  patterns and reservations with our suppliers and partners, but
+                  these statistics do not include any personally identifying
+                  information. Like most Web sites, there is certain information
+                  we automatically track, including the URL that you just came
+                  from, which URL you go to next, the browser you are using and
+                  your IP address.<br />
+                  We use cookies to help users navigate efficiently between
+                  secure and non-secure pages of our site. Cookies are pieces of
+                  information that a Website transfers to your computer's hard
+                  disk for record-keeping purposes. Cookies can make the Web
+                  more useful by storing information about your preferences. The
+                  use of cookies is an industry standard, and many major web
+                  sites use them to provide useful features for their customers.
+                  Cookies in and of themselves do not personally identify users,
+                  although they identify a user's computer. Most browsers are
+                  initially set to accept cookies. If you prefer, you can set
+                  yours to refuse cookies. However, you may not be able to take
+                  full advantage of a website if you do so. We link the
+                  information we store in cookies to any personally identifiable
+                  information you submit while on our site.
+                </div>
+
+                <div class="pri-ques-comm pri-ques3">
+                  Updating personally identifiable information:
+                </div>
+                <div class="pri-para-comm pri-para3">
+                  We intend to give you as much control as possible over your
+                  personal information. You have the option to register with
+                  Blue Dolphin for the use of our services. You can update your
+                  personal information, subscriptions at any time by writing to
+                  us and requesting the relevant adjustments.
+                </div>
+
+                <div class="pri-ques-comm pri-ques3">Links to Other Sites:</div>
+                <div class="pri-para-comm pri-para3">
+                  This Web site contains links to other sites that are not owned
+                  or controlled by Blue Dolphin. Please be aware that Blue
+                  Dolphin is not responsible for the privacy practices of such
+                  other sites. We encourage you to be aware when you leave our
+                  site and to read the privacy statements of each and every Web
+                  site that collects personally identifiable information. This
+                  privacy statement applies only to information collected by
+                  this Web site.
+                </div>
+
+                <div class="pri-ques-comm pri-ques3">Security:</div>
+                <div class="pri-para-comm pri-para3">
+                  We follow generally accepted industry standards to protect the
+                  personal information submitted to us, both during transmission
+                  and once we receive it. No method of transmission over the
+                  Internet, or method of electronic storage, is 100% secure,
+                  however. Therefore, while we strive to use commercially
+                  acceptable means to protect your personal information, we
+                  cannot guarantee its absolute security. If you have any
+                  questions about security on our Web site, you can send us an
+                  email us at hello@bluedolph.in.
+                </div>
+
+                <div class="pri-ques-comm pri-ques3">How to Contact Us:</div>
+                <div class="pri-para-comm pri-para3">
+                  If you have any questions about this privacy statement, or
+                  would like more information about our company, please contact
+                  us at hello@bluedolph.in. This policy may be revised over time
+                  as new features are added to the web site. We will post those
+                  changes prominently so that you will always know what
+                  information we gather, how we might use that information, and
+                  whether we will disclose it to anyone. Please check this site
+                  for information about revisions to our privacy policy. If,
+                  however, we are going to use users' personally identifiable
+                  information in a manner different from that stated at the time
+                  of collection we will notify users via email. Users will have
+                  a choice as to whether or not we use their information in this
+                  different manner. However, if users have opted out of all
+                  communication with the site, or deleted/deactivated their
+                  account, then they will not be contacted, nor will their
+                  personal information be used in this new manner.
+                </div>
+              </div>
+
+              <div class="clearfix"></div>
+
+              <!-- end of white part here -->
+            </div>
+          </section>
+
+          <!-- start of bottom to top arrow section here -->
+
+          <div class="totopbox">
+            <a
+              href="#"
+              onclick="topFunction()"
+              id="myBtn"
+              class="tip"
+              style="display: none;"
+              ><i class="fa fa-angle-up" aria-hidden="true"></i
+              ><span>To Top</span></a
+            >
+          </div>
+
+          <!-- end of bottom to top arrow section here -->
+        </div>
+        <!-- .site-content -->
+
+        <footer id="colophon" class="site-footer" role="contentinfo">
+          <div class="footerbox">
+            <div class="footerupper">
+              <div class="footer-comm footer1">
+                <h5>Other Products</h5>
+                <div class="menu-footermenu1-container">
+                  <ul id="menu-footermenu1" class="menu">
+                    <li
+                      id="menu-item-36"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"
+                    >
+                      <a href="https://attendance.bluedolph.in/"
+                        >bdAttendance</a
+                      >
+                    </li>
+                    <li
+                      id="menu-item-35"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35"
+                    >
+                      <a href="https://fieldforce.bluedolph.in/"
+                        >bdFieldforce</a
+                      >
+                    </li>
+                    <li
+                      id="menu-item-34"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"
+                    >
+                      <a href="https://pulse.bluedolph.in/">bdPulse</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="footer-comm footer2">
+                <h5>About us</h5>
+                <div class="menu-footermenu2-container">
+                  <ul id="menu-footermenu2" class="menu">
+                    <li
+                      id="menu-item-37"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"
+                    >
+                      <a href="/about-us-investors-careers">About us</a>
+                    </li>
+                    <li
+                      id="menu-item-38"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38"
+                    >
+                      <a href="/get-in-touch">Join Our Team</a>
+                    </li>
+                    <li
+                      id="menu-item-763"
+                      class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-763"
+                    >
+                      <a href="/privacy-policy">Privacy Policy</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="footer-comm footer3">
+                <h5>Reach us</h5>
+
+                <div class="add-1">
+                  G-84, Second Floor, G-Block, Outer Circle, Connaught Place,
+                  New Delhi-110001
+                </div>
+                <div class="add-2">
+                  <strong> Ph. no. :</strong>
+                  <a href="tel:+91-11-4156 1260">+91-11-4156 1260</a>
+                </div>
+                <div class="add-3">
+                  <strong>Email ID :</strong
+                  ><a class="mailtoui" href="mailto:hello@bluedolph.in" title="Click to send an email" > hello@bluedolph.in </a>
+                </div>
+              </div>
+
+              <div class="footer-comm footer5">
+                <h5>Social Media</h5>
+
+                <div class="footsocial">
+                  <ul>
+                    <li>
+                      <a
+                        href="https://www.facebook.com/bluedolp"
+                        target="_blank"
+                      >
+                        <i class="fa fa-facebook" aria-hidden="true"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://twitter.com/bluedolph_in"
+                        target="_blank"
+                      >
+                        <i class="fa fa-twitter" aria-hidden="true"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.linkedin.com/company/rare-media-company-pvt-ltd-/"
+                        target="_blank"
+                      >
+                        <i class="fa fa-linkedin" aria-hidden="true"></i
+                      ></a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.instagram.com/bluedolph_in/"
+                        target="_blank"
+                      >
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="clearfix"></div>
+              </div>
+
+              <div class="clearfix"></div>
+            </div>
+
+            <div class="footerline"></div>
+
+            <div class="footerlastmenu">
+              <div class="footerlastinner">
+                All rights reserved by Rare Media Company Pvt. Ltd.
+              </div>
+              <div class="clearfix"></div>
+            </div>
+
+            <div class="clearfix"></div>
+          </div>
+        </footer>
+      </div>
+      <!-- .site-inner -->
+    </div>
+    <!-- .site -->
+
+    <script type="text/javascript">
+      /* <![CDATA[ */
+      var wpcf7 = {
+        apiSettings: {
+          root: "https:\/\/bluedolph.in\/wp-json\/contact-form-7\/v1",
+          namespace: "contact-form-7\/v1"
+        },
+        recaptcha: {
+          messages: { empty: "Please verify that you are not a robot." }
+        }
+      };
+      /* ]]> */
+    </script>
+    <script type="text/javascript">
+      /* <![CDATA[ */
+      var screenReaderText = {
+        expand: "expand child menu",
+        collapse: "collapse child menu"
+      };
+      /* ]]> */
+    </script>
+    <script type="text/javascript" src="/assets/js/functions.js"></script>
+    <script type="text/javascript" src="/assets/js/wp-embed.min.js"></script>
+
+    <!-- client testimonial script start -->
+
+    <script>
+      $(document).ready(function() {
+        $(".btn-vertical-slider").on("click", function() {
+          if ($(this).attr("data-slide") == "next") {
+            $("#myCarousel").carousel("next");
+          }
+          if ($(this).attr("data-slide") == "prev") {
+            $("#myCarousel").carousel("prev");
+          }
+        });
+      });
+
+      $(".carousel").carousel({
+        interval: 5000
+      });
+    </script>
+
+    <!-- client testimonial script end -->
+
+    <!-- start of bottom to top arrow section here -->
+
+    <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function() {
+        scrollFunction();
+      };
+
+      function scrollFunction() {
+        if (
+          document.body.scrollTop > 20 ||
+          document.documentElement.scrollTop > 20
+        ) {
+          document.getElementById("myBtn").style.display = "block";
+        } else {
+          document.getElementById("myBtn").style.display = "none";
+        }
+      }
+
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+    </script>
+
+    <!-- start of bottom to top arrow section here end here -->
+
+    <!-- to top and sticky image script end here -->
+
+    <script>
+      $("document").ready(function() {
+        $(".allloginbtn").click(function() {
+          $(".allloglinks").addClass("loginshow");
+        });
+        $(".loginclose").click(function() {
+          $(".allloglinks").removeClass("loginshow");
+        });
+      });
+    </script>
+    <!-- login toggle script end here -->
+
+    <div
+      id="drift-widget-container"
+      style="position: absolute; z-index: 2147483647;"
+    >
+      <iframe
+        id="drift-widget"
+        src="https://js.driftt.com/deploy/assets/index.html"
+        title="Drift Messenger"
+        role="complementary"
+        class="drift-widget-hidden"
+        style="border: none; display: block; height: 0px !important; width: 0px !important; position: fixed; top: auto; left: auto; bottom: 0px; right: 0px; visibility: hidden; z-index: 2147483647; max-height: 100vh; max-width: 100vw; transition: none 0s ease 0s; background: none transparent; opacity: 1; pointer-events: auto; touch-action: auto;"
+      ></iframe>
+    </div>
+    <script src="/assets/mailtoui/mailtoui-min.js"></script>
+  </body>
+</html>
